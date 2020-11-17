@@ -1,0 +1,55 @@
+h1{
+	color: darkorange;
+	font-family: courier;
+}
+h2{
+	color: white;
+	background-color: darkorange;
+}
+#img1{
+	padding: 85px;
+	width: 120px;
+	height: 120px;
+	transition: transform .2s;
+}
+#img1:hover{
+	transform: scale(1.5);
+}
+
+#img2{
+	padding: 85px;
+	width: 120px;
+	height: 120px;
+	transition: transform .2s;
+}
+#img2:hover{
+	transform: scale(1.5);
+}
+
+#img3{
+	padding: 85px;
+	width: 120px;
+	height: 120px;
+	transition: transform .2s;
+}
+#img3:hover{
+	transform: scale(1.5);
+}
+
+#img4{
+	padding: 85px;
+	width: 120px;
+	height: 120px;
+	transition: transform .2s;
+}
+#img4:hover{
+	transform: scale(1.5);
+}
+
+a{
+	font-size: 32px;
+	color: darkorange;
+}
+a.visited {
+	color:darkorange;
+}
